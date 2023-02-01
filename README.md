@@ -8,6 +8,12 @@
 ##### A Principal Components Analysis Report of the _UsArrests.csv_ dataset.
 This project explores the dataset of statistics contained in the [_US Arrests Kaggle challenge file_](https://www.kaggle.com/kurohana/usarrets) for assault, murder, and rape in each of the 50 US states in 1973. Also given is the percent of the population living in urban areas. By diving into the data its hoped some undersatnding can be gleened from any correlations that may exist between the various crimes, their locations and in so doing some deeper understanding be learned as to the primary features that can be used to guage and model future crimes.
 #### Table of Contents
+1. [About](#about)
+1. [Project Files](#project-files)
+1. [Installation](#installation)
+1. [Project Dependancies](#project-dependancies)
+1. [Usage](#usage)
+#### Project Files
 1. [T51 Submission.ipynb - Jupyter Notebook](https://github.com/DH22090004246/finalCapstone/blob/main/T51%20Submission.ipynb)
 1. [UsArrests.csv - CSV file](https://github.com/DH22090004246/finalCapstone/blob/main/UsArrests.csv)
 1. [Data - Folder](https://github.com/DH22090004246/finalCapstone/tree/main/data)
